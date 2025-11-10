@@ -1,0 +1,9 @@
+To complete the SQL project promptly, it is essential to establish a hierarchical structure for the steps required to create the project. It is recommended to use the Markdown extension in Visual Studio Code instead of a Word document, as the Markdown document can be easily converted into a PDF file.
+
+The foundation of the SQL project is the database, which contains the tables. The steps are as follows:
+
+1. **Download the SQL Software:** (To watch the video Adam has provided to me) Install the necessary SQL software on your computer. Create the database using the SQL tables provided in various file locations.
+
+2. **Display the Tables:** Present the tables with the data included. Provide a brief explanation of each table's features, such as primary keys, foreign keys, relations to other tables, and many-to-many connections.
+
+3. **Operate Schemas:** Implement several schemas to provide additional information to the reader.
